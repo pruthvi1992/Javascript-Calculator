@@ -1,0 +1,33 @@
+#container {
+  text-align: center;
+  margin-top: 50px;
+  border: solid;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 20px;
+  width: 320px;
+  background-color: black;
+  border: solid grey;
+}
+
+#displayTop {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: orange;
+  font-size: larger;
+  padding: 5px;
+  text-align: right;
+  width: 305px;
+  font-weight: bolder;
+}
+
+#display {
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: large;
+  font-weight: bold;
+  padding: 5px;
+  text-align: right;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 305px;
+}
